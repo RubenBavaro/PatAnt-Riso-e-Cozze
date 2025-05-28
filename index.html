@@ -9,13 +9,80 @@
 </head>
 <body>
 <div id="hero">
-    <div class="content">
-        <div class="cont"
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-1 offset-2">
+                <img class="cd" src="static/img/cd.gif">
+            </div>
+            <div class="col-4 offset-1">
+                <h2 class="title">Generatore di canzoni</h2> 
+            </div>
+            <div class="col-1 offset-1">
+                <img class="cd" src="static/img/cd.gif">
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-5 offset-1">
+                <div class="box1">
+                    <ul style="margin-left: 36px; margin-right: 36px; margin-top: 20px;">
+                        <li>Puoi caricare un file testuale con un elenco di canzoni (nome, ID, link).</li>
+                        <li>Un pulsante permette di estrarre una canzone casuale dal file caricato.</li>
+                        <li>Per ogni estrazione verranno mostrati: nome, ID e link della canzone.</li>
+                        <li>Non possono uscire due volte di seguito le stesse canzoni.</li>
+                        <li>Quando tutte le canzoni saranno state estratte, 
+                            apparirà il messaggio: "Canzoni terminate. 
+                            Premere il pulsante sottostante se si desidera ricominciare".</li>
+                    </ul>  
+                </div>
+            </div>
+            <div class="col-5">
+                <div class="box2">
+                    <div class="content" style="margin-top: 20px;">
+                        Nome: <div class="form"></div>
+                    </div>
+                    <div class="content" style="margin-top: 20px;">
+                        Id: <div class="form" style="margin-left: 57px;"></div>
+                    </div>
+                    <div class="content" style="margin-top: 20px;">
+                        Link: <div class="form" style="margin-left: 24px;"></div>
+                    </div>
+                </div>
+                <div class="w-40 miniBox">
+                    <p id="load" onclick="loadFile()">Carica lista</p>
+                    <p id="loaded">nessun file caricato.</p>
+                </div>
+                <div class="w-10" alt="space"></div>
+                <div class="w-40 miniBox">
+                    <p style="margin-top: 30px;">Rimuovi Brano</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-4 offset-4">
+            <div id="error">Canzoni terminate. 
+                Premere il pulsante sottostante 
+                se si desidera ricominciare".</div>
+        </div>
+    </div>    
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-6 offset-3">
+                <div id="button-container">
+                <div id="button">Genera canzone randomica</div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
 
     
-    <script src="static/js/script.js"></script>
+    <script src="static/js/index.js"></script>
 </body>
-</html>
+</html> 
