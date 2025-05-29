@@ -9,17 +9,17 @@
 }
 
 .w-40 {
+    display: inline;
     width: 40%;
 }
 
 .w-10{
-    display: inline-block;
-    width: 18.8%;
+    display: inline;
 }
 
 .cd{
     margin-top: 108px;
-    width: 200px;
+    width: 142px;
     margin-bottom: 30px;
 }
 
@@ -32,18 +32,17 @@
     line-height: 121px;
     text-align: center;
     color: #000000;
+    margin-bottom: 50px;
 }
 
 .box1{
     background: rgba(217, 217, 217, 0.75);
-    height: 550px;
     border-radius: 75px;
     font-family: 'Nova Flat';
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
     line-height: 39px;
-    display: flex;
     align-items: center;
     color: #000000;
     -webkit-text-stroke: 1px black;
@@ -51,13 +50,13 @@
 
 .box2{
     background: rgba(217, 217, 217, 0.75);
-    height: 346px;
     border-radius: 75px;
 }
 
 .miniBox{
-  display: inline-block;
-  vertical-align: top;    margin-top: 53px;
+    display: inline-block;
+    vertical-align: top;    
+    margin-top: 53px;
     height: 150px;
     background: rgba(217, 217, 217, 0.75);
     border-radius: 75px;
@@ -104,8 +103,12 @@
 
 
 .content{
-    display: inline-block;
-    margin-left: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    padding-right: 30px;
+    display: flex;
+    align-self: flex-start;
     font-family: 'Nova Flat';
     font-style: normal;
     font-weight: 400;
@@ -118,13 +121,15 @@
 
 .form{
     position: relative;
-    top: 25px;
-    width: 570px;
-    display: inline-block;
+    width: 100%;
+    display: block;
     height: 69px;
     background: rgba(255, 255, 255, 0.75);
 }
 
+.miniBoxContainers{
+    display: inline;
+}
 #load{
     font-family: 'Nova Flat';
     font-style: normal;
