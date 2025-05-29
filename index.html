@@ -4,89 +4,75 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PatAnt riso e cozze</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="static/css/index.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Nova+Flat:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="static/css/index.css"/>
+
 </head>
 <body>
-<div id="hero">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-1 offset-2">
-                <img class="cd" src="static/img/cd.gif">
-            </div>
-            <div class="col-4 offset-1">
-                <h2 class="title">Generatore di canzoni</h2> 
-            </div>
-            <div class="col-1 offset-1">
-                <img class="cd" src="static/img/cd.gif">
-            </div>
-        </div>
-    </div>
+    <div id="hero">
+        <div class="particle" style="width: 4px; height: 4px; top: 20%; left: 10%;"></div>
+        <div class="particle" style="width: 6px; height: 6px; top: 60%; left: 80%;"></div>
+        <div class="particle" style="width: 3px; height: 3px; top: 40%; left: 60%;"></div>
+        <div class="particle" style="width: 5px; height: 5px; top: 80%; left: 20%;"></div>
+        <div class="particle" style="width: 4px; height: 4px; top: 30%; left: 90%;"></div>
+        <div class="particle" style="width: 7px; height: 7px; top: 70%; left: 40%;"></div>
 
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-5 offset-1">
-                <div class="box1">
-                    <ul style="margin-left: 36px; margin-right: 36px; padding-top: 20px; padding-bottom: 20px;">
+        <div class="container-fluid">
+            <div class="row" style="justify-content: space-between; align-items: center;">
+                <h1 class="title">Generatore di canzoni</h1>
+                <br>
+                <img src="static/img/cd.gif" class="cd"></img>
+                <img src="static/img/cd.gif" class="cd"></img>
+            </div>
+
+            <div class="row">
+                <div class="glass-box instructions">
+                    <ul>
                         <li>Puoi caricare un file testuale con un elenco di canzoni (nome, ID, link).</li>
                         <li>Un pulsante permette di estrarre una canzone casuale dal file caricato.</li>
                         <li>Per ogni estrazione verranno mostrati: nome, ID e link della canzone.</li>
                         <li>Non possono uscire due volte di seguito le stesse canzoni.</li>
-                        <li>Quando tutte le canzoni saranno state estratte, 
-                            apparirà il messaggio: "Canzoni terminate. 
-                            Premere il pulsante sottostante se si desidera ricominciare".</li>
-                    </ul>  
+                        <li>Quando tutte le canzoni saranno state estratte, apparirà il messaggio: "Canzoni terminate."</li>
+                    </ul>
+                </div>
+
+                <div class="glass-box song-display">
+                    <div class="form-group">
+                        <label>Nome:</label>
+                        <input type="text" class="form-input" id="songName" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label>ID:</label>
+                        <input type="text" class="form-input" id="songId" readonly>
+                    </div>
+                    <div class="form-group">
+                        <label>Link:</label>
+                        <input type="text" class="form-input" id="songLink" readonly>
+                    </div>
+
+                    <div class="mini-boxes">
+                        <div class="mini-box" onclick="loadFile()">
+                            <div id="loadText">📁 Carica lista</div>
+                            <div class="file-status" id="fileStatus">Nessun file caricato</div>
+                        </div>
+                        <div class="mini-box" onclick="removeSong()">
+                            <div>🗑️ Rimuovi Brano</div>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-5">
-                <div class="box2">
-                    <div class="content" style="padding-top: 30px;">
-                        Nome: <div class="form" style="margin-left: 20px; margin-top: -10px;"></div>
-                    </div>
-                    <div class="content">
-                        <br>
-                        Id: <div class="form" style="margin-left: 77px; margin-top: 25px;"></div>
-                    </div>
-                    <div class="content">
-                        <br>
-                        Link: <div class="form" style="margin-left: 44px; margin-top: 25px;"></div>
-                    </div>
-                </div>
-                <div class="miniBoxContainers">
-                <div class="w-40 miniBox">
-                    <p id="load" onclick="loadFile()">Carica lista</p>
-                    <p id="loaded">nessun file caricato.</p>
-                </div>
-                <div class="w-10" alt="space"></div>
-                <div class="w-40 miniBox" style="margin-left: 19.2%;">
-                    <p style="margin-top: 30px;">Rimuovi Brano</p>
-                </div>
-                </div>
+
+            <div class="error-message" id="errorMessage">
+                🎵 Canzoni terminate! Premere il pulsante sottostante se si desidera ricominciare.
             </div>
+
+            <button class="main-button" id="generateButton" onclick="generateRandomSong()">
+                🎲 Genera canzone randomica
+            </button>
+
+            <input type="file" class="file-input" id="fileInput" accept=".txt,.csv" onchange="handleFileLoad(event)">
         </div>
     </div>
-
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-4 offset-4">
-            <div id="error">Canzoni terminate. 
-                Premere il pulsante sottostante 
-                se si desidera ricominciare".</div>
-        </div>
-    </div>    
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-6 offset-3">
-                <div id="button-container">
-                <div id="button">Genera canzone randomica</div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-    
-    <script src="static/js/index.js"></script>
+<script src="static/js/index.js"></script>
 </body>
-</html> 
+</html>
