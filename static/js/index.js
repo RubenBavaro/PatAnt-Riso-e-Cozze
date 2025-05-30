@@ -27,7 +27,6 @@
                         fileStatus.textContent = `${songs.length} canzoni caricate`;
                         fileStatus.style.color = '#4ade80';
                         
-                        // Reset the game state
                         usedSongs = [];
                         currentSong = null;
                         clearSongDisplay();
@@ -44,21 +43,44 @@
             reader.readAsText(file);
         }
 
-        function parseSongs(content) {
-            songs = [];
-            const lines = content.split('\n').filter(line => line.trim());
-            
-            for (let line of lines) {
-                const parts = line.split(',').map(part => part.trim());
-                if (parts.length >= 3) {
+function parseSongs(content) {
+    songs = [];
+    const lines = content.split('\n').filter(line => line.trim());
+    
+    let currentSong = {};
+    
+    for (let line of lines) {
+        line = line.trim();
+        
+        if (line.startsWith('#') || line === '') continue;
+        
+        if (line.startsWith('<Nome:')) {
+            currentSong = {};
+            const nameMatch = line.match(/^<Nome:\s*(.+)$/);
+            if (nameMatch) {
+                currentSong.nome = nameMatch[1].trim();
+            }
+        } else if (line.startsWith('Link:')) {
+            const linkMatch = line.match(/^Link:\s*(.+)$/);
+            if (linkMatch) {
+                currentSong.link = linkMatch[1].trim();
+            }
+        } else if (line.startsWith('ID:') && line.endsWith('>')) {
+            const idMatch = line.match(/^ID:\s*(\d+)>$/);
+            if (idMatch) {
+                currentSong.id = idMatch[1].trim();
+                
+                if (currentSong.nome && currentSong.link && currentSong.id) {
                     songs.push({
-                        name: parts[0],
-                        id: parts[1],
-                        link: parts[2]
+                        nome: currentSong.nome,
+                        id: currentSong.id,
+                        link: currentSong.link
                     });
                 }
             }
         }
+    }
+}
 
         function generateRandomSong() {
             if (isGenerating) return;
@@ -76,7 +98,6 @@
             const button = document.getElementById('generateButton');
             const originalText = button.textContent;
             
-            // Animation during generation
             button.innerHTML = '<div class="loading"></div> Generando...';
             button.disabled = true;
 
@@ -84,7 +105,6 @@
                 const availableSongs = songs.filter(song => !usedSongs.includes(song));
                 let randomSong;
                 
-                // Ensure we don't get the same song twice in a row
                 do {
                     randomSong = availableSongs[Math.floor(Math.random() * availableSongs.length)];
                 } while (randomSong === currentSong && availableSongs.length > 1);
@@ -98,17 +118,16 @@
                 button.disabled = false;
                 isGenerating = false;
                 
-                // Add success animation
                 document.querySelector('.song-display').classList.add('success-animation');
                 setTimeout(() => {
                     document.querySelector('.song-display').classList.remove('success-animation');
                 }, 600);
                 
-            }, 1500); // Dramatic pause for effect
+            }, 1500); 
         }
 
         function displaySong(song) {
-            document.getElementById('songName').value = song.name;
+            document.getElementById('songName').value = song.nome;
             document.getElementById('songId').value = song.id;
             document.getElementById('songLink').value = song.link;
             
@@ -127,20 +146,16 @@
                 return;
             }
 
-            // Remove from original songs array
             songs = songs.filter(song => song !== currentSong);
             
-            // Remove from used songs array
             usedSongs = usedSongs.filter(song => song !== currentSong);
             
             clearSongDisplay();
             currentSong = null;
             
-            // Update file status
             const fileStatus = document.getElementById('fileStatus');
             fileStatus.textContent = `${songs.length} canzoni rimanenti`;
             
-            // Show success feedback
             const miniBox = event.target.closest('.mini-box');
             const originalContent = miniBox.innerHTML;
             miniBox.innerHTML = '<div>✅ Rimossa!</div>';
@@ -167,7 +182,6 @@
             document.getElementById('errorMessage').style.display = 'none';
         }
 
-        // Add some dynamic particle movement
         setInterval(() => {
             const particles = document.querySelectorAll('.particle');
             particles.forEach(particle => {
@@ -178,7 +192,6 @@
             });
         }, 8000);
 
-        // Reset game when error message is clicked
         document.getElementById('errorMessage').addEventListener('click', function() {
             if (this.textContent.includes('terminate')) {
                 usedSongs = [];
