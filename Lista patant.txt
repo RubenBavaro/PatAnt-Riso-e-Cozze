@@ -1,0 +1,576 @@
+# Canzoni Italiane Formattate
+
+<Nome: Umberto Napolitano - Bimba mia
+Link: https://www.youtube.com/watch?v=W1UOXv2Q3dM
+ID: 7>
+
+<Nome: Umberto Tozzi - Tu
+Link: https://www.youtube.com/watch?v=if7FnrNk3iM
+ID: 8>
+
+<Nome: I Nomadi - Io vagabondo
+Link: https://www.youtube.com/watch?v=qz_hVYZTTOE
+ID: 9>
+
+<Nome: Alan Sorrenti - Tu sei l'unica donna per me
+Link: https://www.youtube.com/watch?v=qhV9gzavnoE
+ID: 10>
+
+<Nome: Umberto Tozzi - Gloria
+Link: https://www.youtube.com/watch?v=nXFzUDQZFz8
+ID: 11>
+
+<Nome: Pooh - Dammi solo un minuto
+Link: https://www.youtube.com/watch?v=LOMp4m5NtAg
+ID: 12>
+
+<Nome: Patty Pravo - Pensiero stupendo
+Link: https://www.youtube.com/watch?v=krh_3urQ49I
+ID: 13>
+
+<Nome: Mina - E poi
+Link: https://www.youtube.com/watch?v=Ogd116JNQBA
+ID: 14>
+
+<Nome: Pooh - Tanta voglia di lei
+Link: https://www.youtube.com/watch?v=DTm8DnT2Pj8
+ID: 15>
+
+<Nome: Lucio Battisti - Emozioni
+Link: https://www.youtube.com/watch?v=SOdvVdgiQRI
+ID: 16>
+
+<Nome: PFM - Impressioni di settembre
+Link: https://www.youtube.com/watch?v=O-81_A2iGbI
+ID: 17>
+
+<Nome: Mina - L'importante è finire
+Link: https://www.youtube.com/watch?v=4Nuope09UgQ
+ID: 18>
+
+<Nome: Franco Simone - Respiro
+Link: https://www.youtube.com/watch?v=msRuv0h3YM8
+ID: 19>
+
+<Nome: Santo California - Tornerò
+Link: https://www.youtube.com/watch?v=lKa_O31oolo
+ID: 20>
+
+<Nome: Adriano Celentano - Svalutascion
+Link: https://www.youtube.com/watch?v=snL4bejQ-_o
+ID: 21>
+
+<Nome: Marcella Bella - Io domani
+Link:https://www.youtube.com/watch?v=jJwWBDSB_rI
+ID: 22>
+
+<Nome: Renato Zero - Il triangolo
+Link: https://www.youtube.com/watch?v=sj4UXCI40Jc
+ID: 23>
+
+<Nome: Adriano Pappalardo - Ricominciamo
+Link: https://www.youtube.com/watch?v=_Mdto5MVdIE
+ID: 24>
+
+<Nome: Sergio Endrigo - Io che amo solo te
+Link: https://www.youtube.com/watch?v=GR7i__QWGpg
+ID: 25>
+
+<Nome: Sandro Giacobbe - Signora mia
+Link: https://www.youtube.com/watch?v=xO1TpfEdO4g
+ID: 26>
+
+<Nome: Edoardo Bennato - Un giorno credi
+Link: https://www.youtube.com/watch?v=I1d2ck-k10M
+ID: 27>
+
+<Nome: Peppino Gagliardi - Settembre
+Link: https://www.youtube.com/watch?v=xxOsWv7I4Mc
+ID: 28>
+
+<Nome: Mia Martini - Piccolo uomo
+Link: https://www.youtube.com/watch?v=UyjqMlOHkn4
+ID: 29>
+
+<Nome: Nicola di Bari - Il cuore è uno zingaro
+Link: https://www.youtube.com/watch?v=qmprhl-v8uw
+ID: 30>
+
+<Nome: Drupi - Sereno è
+Link: https://www.youtube.com/watch?v=34Pu_HSC20E
+ID: 31>
+
+<Nome: Riccardo Cocciante - Margherita
+Link: https://www.youtube.com/watch?v=ajr6SaUEc2o
+ID: 32>
+
+<Nome: Orietta Berti - Fin che la barca va
+Link: https://www.youtube.com/watch?v=W13dUrgPiUo
+ID: 33>
+
+<Nome: Patty Pravo - Pazza idea
+Link:https://www.youtube.com/watch?v=jnl8b3KwaSY
+ID: 34>
+
+<Nome: Mina - Amor mio
+Link: https://www.youtube.com/watch?v=cDcLOqjcSdo
+ID: 35>
+
+<Nome: Ivan Graziani - Lugano Addio
+Link: https://www.youtube.com/watch?v=8kr26cQQ1Oc
+ID: 36>
+
+<Nome: Peppino Gagliardi - Che vuole questa musica stasera
+Link: https://www.youtube.com/watch?v=jZLwp5NJgIo
+ID: 37>
+
+<Nome: Mina - Grande grande grande
+Link: hhttps://www.youtube.com/watch?v=kD_D7-cZTmI
+ID: 38>
+
+<Nome: I Collage - Tu mi rubi l'anima
+Link: https://www.youtube.com/watch?v=YAN86jLtk9A
+ID: 39>
+
+<Nome: Pooh - Nasceto con te
+Link: https://www.youtube.com/watch?v=gCidO5koZlc
+ID: 40>
+
+<Nome: Peppino Di Capri - Un grande amore e niente più
+Link: https://www.youtube.com/watch?v=QjGk2oM57vs
+ID: 41>
+
+<Nome: Drupi - Piccola e fragile
+Link: https://www.youtube.com/watch?v=w2VysqIFhbM
+ID: 42>
+
+<Nome: Demis Roussos - Profeta
+Link: https://www.youtube.com/watch?v=SkCvBgvXQQM
+ID: 43>
+
+<Nome: I Camaleonti - Perché ti amo
+Link: https://www.youtube.com/watch?v=wr4yRXQe--M
+ID: 44>
+
+<Nome: Drupi - Vado
+Link: https://www.youtube.com/watch?v=fA9ZIWSuQNo
+ID: 45>
+
+<Nome: I Camaleonti - Io per lei
+Link: https://www.youtube.com/watch?v=SQKPtriGLbw
+ID: 46>
+
+<Nome: Pooh - Alessandra
+Link: https://www.youtube.com/watch?v=wvEpNopWYMA
+ID: 47>
+
+<Nome: Gigliola Cinquetti - Alle porte del sole
+Link: https://youtu.be/gtsNxONrRCY
+ID: 48>
+
+<Nome: Renato Zero - Il carrozzone 1979
+Link: https://www.youtube.com/watch?v=WflpHvQUqeU
+ID: 49>
+
+<Nome: Pooh - Come si fa
+Link: https://www.youtube.com/watch?v=IETZ_dGwDqA
+ID: 50>
+
+<Nome: Antonello Venditti - Giulia 1978
+Link: https://www.youtube.com/watch?v=9wfCEq-zTEM
+ID: 51>
+
+<Nome: Claudio Baglioni - Signora Lia
+Link: https://www.youtube.com/watch?v=LRzcw0R2vkE
+ID: 52>
+
+<Nome: Mattia Bazar - Stasera che sera
+Link: https://www.youtube.com/watch?v=eU9ERvQsAlc
+ID: 53>
+
+<Nome: Sergio Endrigo - Canzone per te
+Link: https://www.youtube.com/watch?v=w_xdYOo23i8
+ID: 54>
+
+<Nome: Nicola di Bari - Vagabondo
+Link: https://www.youtube.com/watch?v=hm4z39DSrt0
+ID: 55>
+
+<Nome: Fred Bongusto - La mia estate con te
+Link: https://www.youtube.com/watch?v=0OHUZnjdCVU
+ID: 56>
+
+<Nome: Mina - Ancora ancora ancora
+Link: https://www.youtube.com/watch?v=ymV4EJ7-WrQ
+ID: 57>
+
+<Nome: Branduardi - La pulce d'acqua
+Link: https://www.youtube.com/watch?v=7n2d6ljkOxk
+ID: 58>
+
+<Nome: Alunni del Sole - Un'altra poesia
+Link: https://www.youtube.com/watch?v=hKMEI-DjbdM
+ID: 59>
+
+<Nome: La Bottega dell'Arte - Come due bambini
+Link: https://www.youtube.com/watch?v=yarHhX8Rp8E
+ID: 60>
+
+<Nome: Rino Gaetano - Gianna
+Link: https://www.youtube.com/watch?v=739PUvqygHA
+ID: 61>
+
+<Nome: Nicola di Bari - Chitarra suona più piano
+Link: https://www.youtube.com/watch?v=N6_Oe133lrc
+ID: 62>
+
+<Nome: Nicola di Bari - La prima cosa bella
+Link: https://www.youtube.com/watch?v=pJQnclF0BCw
+ID: 63>
+
+<Nome: Domenico Modugno - Questa è la mia vita
+Link: https://www.youtube.com/watch?v=SpzNyXcVL1sID: 64>
+
+<Nome: I Vianella - Semo gente de borgata
+Link: https://www.youtube.com/watch?v=pFAV-y8Euy4
+ID: 65>
+
+<Nome: Gigliola Cinquetti - Gira l'amore
+Link: https://www.youtube.com/watch?v=JhhfcuAgwwE
+ID: 66>
+
+<Nome: Il Giardino dei Semplici - Mi innamorai
+Link: https://www.youtube.com/watch?v=v3PkvoSmGdI
+ID: 67>
+
+<Nome: Iva Zanicchi - Testarda io
+Link: https://www.youtube.com/watch?v=UAUkJKPF5NQ
+ID: 68>
+
+<Nome: Massimo Ranieri - La via del conservatorio
+Link: https://www.youtube.com/watch?v=SKnnD4jViFs
+ID: 69>
+
+<Nome: Claudio Baglioni - Una favola blu
+Link: https://www.youtube.com/watch?v=vb3ouGem97k
+ID: 70>
+
+<Nome: Massimo Ranieri - Erba di casa mia
+Link: https://www.youtube.com/watch?v=HIrVLGz4Rb0
+ID: 71>
+
+<Nome: Pooh - Io e te per altri giorni
+Link: https://www.youtube.com/watch?v=SyjgQpOYTBM
+ID: 72>
+
+<Nome: I Collage - Due ragazzi nel sole
+Link: https://www.youtube.com/watch?v=zsppPIlrk7k
+ID: 73>
+
+<Nome: Matia Bazar - Mister mandarino
+Link: https://www.youtube.com/watch?v=KUVFD3EpgDQ
+ID: 74>
+
+<Nome: Wess e Dory Ghezzi - Noi due per sempre
+Link: https://www.youtube.com/watch?v=PDNeYTfOMZM
+ID: 75>
+
+<Nome: Iva Zanicchi - Zingara
+Link: https://www.youtube.com/watch?v=2sYLS7wYFMQ
+ID: 76>
+
+<Nome: Pooh - Fantasia
+Link: https://www.youtube.com/watch?v=g6s_82jtXVM
+ID: 77>
+
+<Nome: Fred Bongusto - Questo nostro grande amore
+Link: https://www.youtube.com/watch?v=a_BGCGda7bU
+ID: 78>
+
+<Nome: Riccardo Fogli - Mondo
+Link: https://www.youtube.com/watch?v=wOQQ0ms6B7U
+ID: 79>
+
+<Nome: Pupo - Gelato al cioccolato
+Link: https://www.youtube.com/watch?v=KrO0EiwNFAs
+ID: 80>
+
+<Nome: Claudio Baglioni - Solo
+Link: https://www.youtube.com/watch?v=-3B8ipgt-z0
+ID: 81>
+
+<Nome: Gianni Bella - Più ci penso
+Link: https://www.youtube.com/watch?v=bXOWE4P2Qgg
+ID: 82>
+
+<Nome: Fred Bongusto - Tre settimane da raccontare
+Link: https://www.youtube.com/watch?v=HsjxGUyAmkM
+ID: 83>
+
+<Nome: Rosanna Fratello - Io sono Maddalena
+Link: https://www.youtube.com/watch?v=E9wSlexPi38
+ID: 84>
+
+<Nome: Albano e Romina Power - Storia di due innamorati
+Link: https://www.youtube.com/watch?v=yCVK7CkTgz0
+ID: 85>
+
+<Nome: Renato dei Profeti - Lady Barbara
+Link: https://www.youtube.com/watch?v=7vH0_2ffHRg
+ID: 86>
+
+<Nome: I Teppisti dei Sogni - Piccolo fiore dove vai
+Link: https://www.youtube.com/watch?v=K36dLsOlQng
+ID: 87>
+
+<Nome: Julio Iglesias - Pensami
+Link: https://www.youtube.com/watch?v=qVV-yDVm50Y
+ID: 88>
+
+<Nome: Pino La Forgia - Amore guardami
+Link: https://www.youtube.com/watch?v=kRcSYXP_OJQ
+ID: 89>
+
+<Nome: I Cugini di Campagna - Anima mia
+Link: https://www.youtube.com/watch?v=p7xxZpwKqNI
+ID: 90>
+
+<Nome: I Cugini di Campagna - Meravigliosamente
+Link: https://www.youtube.com/watch?v=VK3ciXTqtaQ
+ID: 91>
+
+<Nome: Collage - La gente parla
+Link: https://www.youtube.com/watch?v=nJgmV0D3QPQ
+ID: 92>
+
+<Nome: Il Giardino dei Semplici - M'innamorai
+Link: https://www.youtube.com/watch?v=v3PkvoSmGdI
+ID: 93>
+
+<Nome: Il Giardino dei Semplici - Miele
+Link: https://www.youtube.com/watch?v=vPRp98UoBL4
+ID: 94>
+
+<Nome: Homo Sapiens - Tornerai tornerò
+Link: https://www.youtube.com/watch?v=OlawiwHu2uc
+ID: 95>
+
+<Nome: Homo Sapiens - Bella da morire
+Link: https://www.youtube.com/watch?v=XjQ7-qE6cNA
+ID: 96>
+
+<Nome: Alunni del Sole - Liu
+Link: https://www.youtube.com/watch?v=ba5q2M489BQ
+ID: 97>
+
+<Nome: Umberto Balsamo - L'angelo azzurro
+Link: https://www.youtube.com/watch?v=MvcEHWKwNMI
+ID: 98>
+
+<Nome: New Trolls - Quella carezza della sera
+Link: https://www.youtube.com/watch?v=Uev1gKoTywk
+ID: 99>
+
+<Nome: I Nomadi - Un pugno di sabbia
+Link: https://www.youtube.com/watch?v=zOaQguyKHpw
+ID: 100>
+
+<Nome: I Dik Dik - Senza luce
+Link: https://www.youtube.com/watch?v=Ju1ERTuV0os
+ID: 101>
+
+<Nome: I Nomadi - Un giorno insieme
+Link: https://www.youtube.com/watch?v=cnl7RDWrriI
+ID: 102>
+
+<Nome: I Dik Dik - Il primo giorno di primavera
+Link: https://www.youtube.com/watch?v=K-gnZMORREc
+ID: 103>
+
+<Nome: I Collage - Mi innamorai di te
+Link: https://www.youtube.com/watch?v=1xmgKCRYST8
+ID: 104>
+
+<Nome: Gianni Bella - Tu mi rubi l'anima
+Link: https://www.youtube.com/watch?v=YAN86jLtk9A
+ID: 105>
+
+<Nome: Lucio Battisti - La canzone del sole
+Link: https://www.youtube.com/watch?v=HQLCv10vXYo
+ID: 106>
+
+<Nome: Gianni Togni - Luna
+Link: https://www.youtube.com/watch?v=4N5rfy_FwEA
+ID: 107>
+
+<Nome: Sandro Giacobbe - Gli occhi verdi di tua madre
+Link: https://www.youtube.com/watch?v=NtSTvkSumMs
+ID: 108>
+
+<Nome: Gianni Bella - Più ci penso
+Link: https://www.youtube.com/watch?v=bXOWE4P2Qgg
+ID: 109>
+
+<Nome: Robertino - Era la donna mia
+Link: https://www.youtube.com/watch?v=MR_PpesnVVk
+ID: 110>
+
+<Nome: New Trolls - Una miniera
+Link: https://www.youtube.com/watch?v=kz2NQIpMV10
+ID: 111>
+
+<Nome: Pooh - Come si fa
+Link: https://www.youtube.com/watch?v=IETZ_dGwDqA
+ID: 112>
+
+<Nome: De Gregori - Pezzi di vetro
+Link: https://www.youtube.com/watch?v=piLatFUQAEQ
+ID: 113>
+
+<Nome: Guccini - L'avvelenata
+Link: https://www.youtube.com/watch?v=8EaqpsLJoeY
+ID: 114>
+
+<Nome: Patty Pravo - La bambola
+Link: https://www.youtube.com/watch?v=0Z6YcZ0-5Ic
+ID: 115>
+
+<Nome: De Andrè - La canzone di Marinella
+Link: https://www.youtube.com/watch?v=zBH8JESgaq4
+ID: 116>
+
+<Nome: De Andrè - La guerra di Piero
+Link: https://www.youtube.com/watch?v=HMtvc8ibPm0
+ID: 117>
+
+<Nome: De Andrè - Il pescatore
+Link: https://www.youtube.com/watch?v=GgeX_DAxGks
+ID: 118>
+
+<Nome: Battiato - La cura
+Link: https://www.youtube.com/watch?v=2_mbJgf9bac
+ID: 119>
+
+<Nome: Battiato - Cuccurucucu Paloma
+Link: https://www.youtube.com/watch?v=UaAEeybAXKc
+ID: 120>
+
+<Nome: Branduardi - La pulce d'acqua
+Link: https://www.youtube.com/watch?v=7n2d6ljkOxk
+ID: 121>
+
+<Nome: Bennato - Sono solo canzonette
+Link: https://www.youtube.com/watch?v=w5i3R8Vb61E
+ID: 122>
+
+<Nome: De Gregori - Rimmel
+Link: https://www.youtube.com/watch?v=TuZA4eItgZA
+ID: 123>
+
+<Nome: Guccini - L'avvelenata
+Link: https://www.youtube.com/watch?v=8EaqpsLJoeY
+ID: 124>
+
+<Nome: Fausto Leali - A chi
+Link: https://www.youtube.com/watch?v=uxUdVEHwZw0
+ID: 125>
+
+<Nome: Mango - La rondine
+Link: https://www.youtube.com/watch?v=0bcAfqYxGzI
+ID: 126>
+
+<Nome: Mango - Bella d'estate
+Link: https://www.youtube.com/watch?v=q0-oXoSd594
+ID: 127>
+
+<Nome: Mango - Amore per te
+Link: https://www.youtube.com/watch?v=QEjXM0xV_sU
+ID: 128>
+
+<Nome: Anna Oxa - Donna con te
+Link: https://www.youtube.com/watch?v=JruAEaPnDVg
+ID: 129>
+
+<Nome: Anna Oxa - Quando nasce un amore
+Link: https://www.youtube.com/watch?v=X4SpkikYQdo
+ID: 130>
+
+<Nome: Massimo Ranieri - Se bruciasse la città
+Link:https://www.youtube.com/watch?v=Ba3HYt6SLr8
+ID: 131>
+
+<Nome: Massimo Ranieri - Rose rosse
+Link: https://www.youtube.com/watch?v=K_gZsCceiEs
+ID: 132>
+
+<Nome: Gianni Morandi - C'era un ragazzo che come me
+Link: https://www.youtube.com/watch?v=FwfHRswXmtU
+ID: 133>
+
+<Nome: Adriano Celentano - Pregherò
+Link: https://www.youtube.com/watch?v=Xg5I5hV2A0I
+ID: 134>
+
+<Nome: Adriano Celentano - Azzurro
+Link: https://www.youtube.com/watch?v=z38WfhmjCTc
+ID: 135>
+
+<Nome: Patty Pravo - Se perdo te
+Link: https://www.youtube.com/watch?v=0uFqmeixhjA
+ID: 136>
+
+<Nome: Antonello Venditti - Alta marea
+Link: https://www.youtube.com/watch?v=XQXdl70JSzw
+ID: 137>
+
+<Nome: Lucio Battisti - I giardini di marzo
+Link: https://www.youtube.com/watch?v=rddw_8DAhoA
+ID: 138>
+
+<Nome: Lucio Battisti - Acqua azzurra acqua chiara
+Link: https://www.youtube.com/watch?v=QxMDlVk5aP8
+ID: 139>
+
+<Nome: Lucio Battisti - Il mio canto libero
+Link: https://www.youtube.com/watch?v=Ze3fK5IZeBg
+ID: 140>
+
+<Nome: Lucio Dalla - Attenti al lupo
+Link: https://www.youtube.com/watch?v=0EpIR0ZEbxA
+ID: 141>
+
+<Nome: Lucio Dalla - Futura
+Link: https://www.youtube.com/watch?v=EUdGZyUa-vM
+ID: 142>
+
+<Nome: Lucio Dalla - Piazza grande
+Link: https://www.youtube.com/watch?v=O5G0_VDAmOg
+ID: 143>
+
+<Nome: Lucio Dalla - Caruso
+Link: https://www.youtube.com/watch?v=a_Zu4FUQknM
+ID: 144>
+
+<Nome: Battiato - Centro di gravità permanente
+Link: https://www.youtube.com/watch?v=vJGb1J0NzQw
+ID: 145>
+
+<Nome: Claudio Baglioni - Sabato pomeriggio
+Link: https://www.youtube.com/watch?v=t-FeV7tBHeo
+ID: 146>
+
+<Nome: Claudio Baglioni - Mille giorni di te e di me
+Link: https://www.youtube.com/watch?v=az2Zy5b2noY
+ID: 147>
+
+<Nome: Claudio Baglioni - E tu
+Link: https://www.youtube.com/watch?v=e4GdRcufbl0
+ID: 148>
+
+<Nome: Domenico Modugno - Meraviglioso
+Link: https://www.youtube.com/watch?v=b5pk5PcjZE8
+ID: 149>
+
+<Nome: Gianni Morandi - Occhi di ragazza
+Link: https://www.youtube.com/watch?v=BwjMK5RZ_kM
+ID: 150>
